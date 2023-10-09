@@ -1,5 +1,5 @@
 
-CREATE OR REPLACE TABLE `uber-analytics-395803.uber_data_engg.tbl_analytics` AS (
+CREATE OR REPLACE TABLE `uber-analytics-395803.uber_data_engg.tbl_analytic` AS (
 SELECT
 f.VendorID,
 f.trip_id,
