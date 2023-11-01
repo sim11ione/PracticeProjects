@@ -1,5 +1,8 @@
 # Uber Analytics | Modern Data Engineering Project by Simon Abraham
 
+## Important:
+Please watch the video of entire workflow for this project for better understanding here: https://drive.google.com/file/d/19FF3ZbcODc_kIKeWLlR5Iz_exJVM_1Bw/view?usp=sharing
+
 ## Introduction
 
 The goal of this project is to perform ETL and analytics on Uber data using various tools and technologies like Google Console Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
@@ -14,7 +17,7 @@ The goal of this project is to perform ETL and analytics on Uber data using vari
 3. Load — Loading the transformed data onto a Data lake, in this case - BigQuery.
 4. Reporting — Use a BI tool to use the data to create a Dashboard.
 
-## Tools and Techn Used
+## Tools and Tech Used
 - Programming Language - Python
 
 Google Cloud Platform
