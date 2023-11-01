@@ -1,0 +1,22 @@
+--count the number of athletes from each country
+SELECT Country, COUNT(*) AS TotalAthletes
+FROM tbl_athletes
+GROUP BY Country
+ORDER BY TotalAthletes DESC;
+
+--calculate the total medals won by each country
+SELECT 
+Team_Country,
+SUM(Gold) AS Total_gold,
+SUM(Silver) AS Total_silver,
+SUM(Bronze) AS Total_bronze
+FROM tbl_medals
+GROUP BY Team_Country
+ORDER BY Total_gold DESC;
+
+--calculate average number of enrties based on gender for the sport archery
+SELECT Discipline,
+AVG(Female) AS avg_female,
+AVG(Male) AS avg_male
+FROM tbl_entriesgender
+GROUP BY Discipline;

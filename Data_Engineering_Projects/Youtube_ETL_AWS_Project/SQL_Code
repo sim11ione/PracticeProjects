@@ -1,0 +1,7 @@
+--Joining raw statistics table and the table from the cleaned database
+SELECT a.title,a.category_id,b.snippet_title FROM "yt-de-databaase"."raw_statistics" AS a
+INNER JOIN "db_youtube_cleaned"."cleaned_statistics_reference_data" AS b ON a.category_id = b.id AS int) WHERE a.region = 'ca';
+
+
+SELECT * FROM "db_youtube_cleaned"."raw_statistics" AS a
+INNER JOIN "db_youtube_cleaned"."cleaned_statistics_reference_data" AS b ON a.category_id = cast(b.id as int);  
