@@ -1,5 +1,8 @@
 # YouTube ETL Amazon Web Services Data Engineering Project by Simon Abraham
 
+## Important:
+Please watch the video of entire workflow for this project for better understanding here: https://drive.google.com/file/d/1NlhIM3yTkQoBTevTKtiQOBF9e-JvnOFv/view?usp=sharing 
+
 ## Overview
 
 This project aims to securely manage, streamline, and analyse structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
@@ -27,6 +30,8 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 <img src="architecture.jpeg">
+
+
 
 
 
