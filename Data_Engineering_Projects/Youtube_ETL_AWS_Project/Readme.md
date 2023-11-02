@@ -10,7 +10,7 @@ This project aims to securely manage, streamline, and analyse structured and sem
 ## Project Goals
 1. Data Ingestion — Build a system to source data from different locations.
 2. ETL — Transform the data from the raw source format into a proper readable format.
-3. Data lake — Stroing the data fron different sources into a centralized repoistory.
+3. Data lake — Storing the data from different sources into a centralized repoistory.
 4. Scalability — Scale the size of the system as the data size increases.
 5. Cloud — Using a cloud, in this case aws to process vast amounts of data.
 6. Reporting — Build a dashboard.
