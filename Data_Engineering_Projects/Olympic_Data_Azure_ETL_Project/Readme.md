@@ -23,4 +23,4 @@ This project was primarily done using Microsoft Azure services.
 https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
 ## Architecture Diagram
-<img src="Architecture.jpeg">
+<img src="Architecture.png">
