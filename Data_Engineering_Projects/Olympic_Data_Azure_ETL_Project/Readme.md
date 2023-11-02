@@ -1,5 +1,8 @@
 # Olympic Data Microsoft Azure Data Engineering Project by Simon Abraham
 
+## Important:
+Please watch the video of entire workflow for this project for better understanding here: https://drive.google.com/file/d/1IkT1VUyInRe9m9Of9z1qsH4GwFN2tN5P/view?usp=sharing
+
 ## Overview
 
 The goal of this project is to securely handle, simplify, and evaluate structured and semi-structured data from the Tokyo Olympics and trending indicators.
