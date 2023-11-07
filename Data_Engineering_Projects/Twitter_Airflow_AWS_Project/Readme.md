@@ -1,4 +1,4 @@
-# Twitter Airflow Amazon Web Services Data Engineering Project by Simon Abraham
+# Twitter API Airflow Amazon Web Services Data Engineering Project by Simon Abraham
 
 ## Important:
 Please watch the video of entire workflow for this project for better understanding here: https://drive.google.com/file/d/1qvBbjJBhQriguPMiaWeci2crcVc_wPKP/view?usp=sharing
